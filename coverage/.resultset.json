@@ -207,6 +207,7 @@
           1,
           null,
           1,
+          1,
           null,
           null
         ]
@@ -214,6 +215,52 @@
       "/Users/niv3kmcg/turing/2module/indy_challenges/hogwarts_again/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/niv3kmcg/turing/2module/indy_challenges/hogwarts_again/spec/features/professors/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/niv3kmcg/turing/2module/indy_challenges/hogwarts_again/spec/models/professor_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
           null
         ]
       },
@@ -234,9 +281,66 @@
           null
         ]
       },
+      "/Users/niv3kmcg/turing/2module/indy_challenges/hogwarts_again/spec/models/professor_student_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/niv3kmcg/turing/2module/indy_challenges/hogwarts_again/app/models/professor_student.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/niv3kmcg/turing/2module/indy_challenges/hogwarts_again/spec/models/student_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          2,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/niv3kmcg/turing/2module/indy_challenges/hogwarts_again/app/models/student.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/niv3kmcg/turing/2module/indy_challenges/hogwarts_again/app/controllers/professors_controller.rb": {
         "lines": [
           1,
+          null,
+          1,
+          1,
+          null,
           null,
           1,
           1,
@@ -254,6 +358,6 @@
         ]
       }
     },
-    "timestamp": 1585323094
+    "timestamp": 1585324274
   }
 }
